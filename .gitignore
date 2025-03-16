@@ -145,7 +145,7 @@ dmypy.json
 .pytype/
 
 # FastAPI startup scripts
-main.py
+# main.py
 app.py
 uvicorn.log
 gunicorn.log
